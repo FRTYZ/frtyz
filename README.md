@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Firat YILDIZ @FRTYZ 
 - 👀 I’m interested in Web Programmer/Developer 
-- 🌱 I’m currently learning PHP (I won't be limited to just that) 
+- 🌱 I'am currently learning and working on React and NodeJS (I won't be limited to just that) 
 - 💞️ I’m looking to collaborate on Web Developer
 - 📌 I'm here to share what I've learned
