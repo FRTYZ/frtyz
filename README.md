@@ -1,5 +1,4 @@
 - 👋 Hi, my name is Firat YILDIZ (@FRTYZ), and I am a Software Developer with a passion for what I do. I enjoy cooperative work and focus on producing quality deliverables which are effective.
 - 👀 I’m interested in Full Stack Developer
-- 🌱 At the moment, I am practicing with React.js and Node.js, yet I have the desire to learn more than these two frameworks.
 - 💞️ I’m looking to collaborate on Web Developer. I approach every project with full commitment and I strive to finish what I start. I am eager to learn and apply every new technology in my projects.
 - 📌 I’m here to spread knowledge, to share it with all the developers’ community.
